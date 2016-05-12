@@ -1,0 +1,29 @@
+{
+  "name": "servicefacade",
+  "version": "0.0.13",
+  "description": "Basic tools for implementing any eyeos back-end service",
+  "main": "src/index.js",
+  "author": "eyeOS",
+  "homepage": "http://www.eyeos.com/",
+  "dependencies": {
+    "log2out": "*",
+    "eyeos-bustohttp": "*",
+    "baucis": "^1.0.5",
+    "baucis-swagger": "^1.1.0",
+    "express": "^4.12.2",
+    "mongoose": "3.8.24"
+  },
+  "devDependencies": {
+    "eyeos-builder-utils": "*",
+    "eyeos-gruntfile": "*",
+    "chai": "1.10.0",
+    "sinon": "1.12.2",
+    "mocha": "2.1.0",
+    "grunt": "0.4.5",
+    "grunt-init": "0.3.2",
+    "grunt-shell": "1.1.1",
+    "grunt-mocha-test": "0.12.6",
+    "eyeos-amqp": "*"
+  },
+  "license": "AGPL-3.0"
+}
