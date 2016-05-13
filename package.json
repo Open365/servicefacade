@@ -1,6 +1,6 @@
 {
   "name": "servicefacade",
-  "version": "0.0.14",
+  "version": "0.0.15",
   "description": "Basic tools for implementing any eyeos back-end service",
   "main": "src/index.js",
   "author": "eyeOS",
