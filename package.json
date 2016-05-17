@@ -1,6 +1,6 @@
 {
   "name": "servicefacade",
-  "version": "0.0.14",
+  "version": "0.0.15",
   "description": "Basic tools for implementing any eyeos back-end service",
   "main": "src/index.js",
   "author": "eyeOS",
@@ -14,7 +14,6 @@
     "mongoose": "3.8.24"
   },
   "devDependencies": {
-    "eyeos-builder-utils": "*",
     "eyeos-gruntfile": "*",
     "chai": "1.10.0",
     "sinon": "1.12.2",
